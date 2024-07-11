@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/paidwork/solana-sdk-unity">
-    <img alt="GitHub Repository Stars Count" src="https://img.shields.io/github/stars/paidwork/solana-sdk-unity?style=social" />
+  <a href="https://github.com/paidwork/solana-sdk-php">
+    <img alt="GitHub Repository Stars Count" src="https://img.shields.io/github/stars/paidwork/solana-sdk-php?style=social" />
   </a>
     <a href="https://x.com/paidworkco">
         <img alt="Follow Us on X" src="https://img.shields.io/twitter/follow/paidworkco?style=social" />
